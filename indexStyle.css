@@ -1,0 +1,33 @@
+header {
+    background: #63a2ff !important;
+    width: 100%;
+    height: 50px;
+    box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.096);
+    justify-content: end;
+    color: rgb(0, 0, 0);
+}
+.content_ {
+    margin-top: 5%;
+}
+.content {
+    display: flex;
+    justify-content: center;
+}
+.kpk {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+img {
+    width: 500px;
+    height: 300px;
+}
+.title {
+    margin-left: 45%;
+}
+marquee {
+    font-weight: bold;
+}
+a {
+    color: #000;
+    text-decoration: none;
+}

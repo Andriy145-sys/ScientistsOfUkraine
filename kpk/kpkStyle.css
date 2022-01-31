@@ -53,3 +53,6 @@ p {
 .h_active {
     background-color: #f0f4fa;
 }
+.h_title {
+    margin-left: 50px;
+}
